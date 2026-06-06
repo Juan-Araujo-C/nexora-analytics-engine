@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Data & Secrets
+*.csv
+*.xlsx
+secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
